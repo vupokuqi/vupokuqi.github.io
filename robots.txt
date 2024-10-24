@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://vupokuqi.github.io/sitemap/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/Zag/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/vTt/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/uJn/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/cbV/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/wtB/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/uLm/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/MEX/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/Ban/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/hsR/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/WGw/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/Syi/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/NwX/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/itQ/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/XtM/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/qpR/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/jHn/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/kfU/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/SuD/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/qDY/sitemap_index.vupokuqi
+Sitemap: https://vupokuqi.github.io/Qew/sitemap_index.vupokuqi
